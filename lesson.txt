@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+it was a nice way to see the difference between the two files 
+better than manually chceking it 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+saves time
+how the file progressed can be seen
+going back to some point in the development cycle will be easy
+
+3e42136a76cf78c6c421cd720427bf6337c2d623
+
+4035769377cce96a88d5c1167079e12f30492391
+
+// papy pakia
+
+71d52709ddc4066e7a79a1d0a412e43429a0cdeb
+
+547f4171a82ec6429d002c1acef357aec41d3f17
